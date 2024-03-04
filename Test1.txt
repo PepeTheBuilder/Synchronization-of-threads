@@ -1,0 +1,83 @@
+Wait list: (2,6,3) (4,7,3) (3,11,4) (1,22,4) 
+Thread created successfully:0
+Thread created successfully:1
+Time is:0
+Time is:1
+Time is:2
+Time is:3
+Time is:4
+Time is:5
+Time is:6
+Queue:0 has person:  Person{id:2, arrival Time:6, service Time:3}3
+Time is:7
+Queue:1 has person:  Person{id:4, arrival Time:7, service Time:3}3
+Queue:0 has person:  Person{id:2, arrival Time:6, service Time:2}2
+Time is:8
+Queue:1 has person:  Person{id:4, arrival Time:7, service Time:2}2
+Queue:0 has person:  Person{id:2, arrival Time:6, service Time:1}1
+Time is:9
+Queue:1 has person:  Person{id:4, arrival Time:7, service Time:1}1
+Queue:0 has person:  Person{id:2, arrival Time:6, service Time:0}0
+Time is:10
+Queue:1 has person:  Person{id:4, arrival Time:7, service Time:0}0
+Time is:11
+Queue:0 has person:  Person{id:3, arrival Time:11, service Time:4}4
+Time is:12
+Queue:0 has person:  Person{id:3, arrival Time:11, service Time:3}3
+Time is:13
+Queue:0 has person:  Person{id:3, arrival Time:11, service Time:2}2
+Time is:14
+Queue:0 has person:  Person{id:3, arrival Time:11, service Time:1}1
+Time is:15
+Queue:0 has person:  Person{id:3, arrival Time:11, service Time:0}0
+Stopped Thread 0 emptyList 
+Time is:16
+Time is:17
+Time is:18
+Time is:19
+Time is:20
+Time is:21
+Time is:22
+Queue:1 has person:  Person{id:1, arrival Time:22, service Time:4}4
+Time is:23
+Queue:1 has person:  Person{id:1, arrival Time:22, service Time:3}3
+Time is:24
+Queue:1 has person:  Person{id:1, arrival Time:22, service Time:2}2
+Time is:25
+Queue:1 has person:  Person{id:1, arrival Time:22, service Time:1}1
+Time is:26
+Queue:1 has person:  Person{id:1, arrival Time:22, service Time:0}0
+Stopped Thread 1 emptyList 
+Time is:27
+Time is:28
+Time is:29
+Time is:30
+Time is:31
+Time is:32
+Time is:33
+Time is:34
+Time is:35
+Time is:36
+Time is:37
+Time is:38
+Time is:39
+Time is:40
+Time is:41
+Time is:42
+Time is:43
+Time is:44
+Time is:45
+Time is:46
+Time is:47
+Time is:48
+Time is:49
+Time is:50
+Time is:51
+Time is:52
+Time is:53
+Time is:54
+Time is:55
+Time is:56
+Time is:57
+Time is:58
+Time is:59

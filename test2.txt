@@ -1,0 +1,317 @@
+Wait list: (28,2,6) (3,3,2) (7,3,5) (43,3,6) (37,4,3) (20,5,3) (4,6,2) (12,7,2) (21,7,7) (2,8,2) (39,8,4) (17,11,2) (19,11,7) (14,12,3) (24,13,1) (48,13,2) (34,14,5) (16,15,3) (22,15,5) (26,16,1) (47,16,5) (15,17,7) (50,19,5) (27,20,4) (30,20,4) (35,20,4) (49,20,1) (8,21,5) (36,26,1) (40,26,5) (25,28,3) (38,28,6) (41,28,4) (23,29,1) (5,30,4) (18,30,1) (31,30,4) (44,30,7) (13,32,7) (33,32,1) (11,34,4) (29,34,6) (42,34,2) (32,35,7) (46,35,1) (1,36,6) (9,36,5) (45,38,6) (10,39,5) (6,40,4) 
+Thread created successfully:0
+Thread created successfully:1
+Thread created successfully:2
+Thread created successfully:3
+Thread created successfully:4
+Time is:0
+Time is:1
+Time is:2
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:6}6
+Time is:3
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:5}5
+Queue:1 has person:  Person{id:3, arrival Time:3, service Time:2}2
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:6}6
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:5}5
+Time is:4
+Queue:4 has person:  Person{id:37, arrival Time:4, service Time:3}3
+Queue:1 has person:  Person{id:3, arrival Time:3, service Time:1}1
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:4}4
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:4}4
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:5}5
+Time is:5
+Queue:4 has person:  Person{id:37, arrival Time:4, service Time:2}2
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:3}3
+Queue:1 has person:  Person{id:3, arrival Time:3, service Time:0}0
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:3}3
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:4}4
+Time is:6
+Queue:4 has person:  Person{id:37, arrival Time:4, service Time:1}1
+Queue:1 has person:  Person{id:4, arrival Time:6, service Time:2}2
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:2}2
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:3}3
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:2}2
+Time is:7
+Queue:4 has person:  Person{id:37, arrival Time:4, service Time:0}0
+Queue:1 has person:  Person{id:4, arrival Time:6, service Time:1}1
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:1}1
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:2}2
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:1}1
+Time is:8
+Queue:4 has person:  Person{id:2, arrival Time:8, service Time:2}2
+Queue:1 has person:  Person{id:4, arrival Time:6, service Time:0}0
+Queue:2 has person:  Person{id:7, arrival Time:3, service Time:0}0
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:1}1
+Queue:0 has person:  Person{id:28, arrival Time:2, service Time:0}0
+Time is:9
+Queue:4 has person:  Person{id:2, arrival Time:8, service Time:1}1
+Queue:2 has person:  Person{id:12, arrival Time:7, service Time:2}2
+Queue:0 has person:  Person{id:20, arrival Time:5, service Time:3}3
+Queue:3 has person:  Person{id:43, arrival Time:3, service Time:0}0
+Time is:10
+Queue:4 has person:  Person{id:2, arrival Time:8, service Time:0}0
+Queue:2 has person:  Person{id:12, arrival Time:7, service Time:1}1
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:7}7
+Queue:0 has person:  Person{id:20, arrival Time:5, service Time:2}2
+Time is:11
+Queue:1 has person:  Person{id:17, arrival Time:11, service Time:2}2
+Queue:2 has person:  Person{id:12, arrival Time:7, service Time:0}0
+Queue:0 has person:  Person{id:20, arrival Time:5, service Time:1}1
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:6}6
+Time is:12
+Queue:1 has person:  Person{id:17, arrival Time:11, service Time:1}1
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:7}7
+Queue:0 has person:  Person{id:20, arrival Time:5, service Time:0}0
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:5}5
+Time is:13
+Queue:1 has person:  Person{id:17, arrival Time:11, service Time:0}0
+Queue:4 has person:  Person{id:24, arrival Time:13, service Time:1}1
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:6}6
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:4}4
+Queue:0 has person:  Person{id:39, arrival Time:8, service Time:4}4
+Time is:14
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:5}5
+Queue:4 has person:  Person{id:24, arrival Time:13, service Time:0}0
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:5}5
+Queue:0 has person:  Person{id:39, arrival Time:8, service Time:3}3
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:3}3
+Time is:15
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:4}4
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:4}4
+Queue:0 has person:  Person{id:39, arrival Time:8, service Time:2}2
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:2}2
+Time is:16
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:3}3
+Queue:4 has person:  Person{id:26, arrival Time:16, service Time:1}1
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:3}3
+Queue:0 has person:  Person{id:39, arrival Time:8, service Time:1}1
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:1}1
+Time is:17
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:2}2
+Queue:4 has person:  Person{id:26, arrival Time:16, service Time:0}0
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:2}2
+Queue:0 has person:  Person{id:39, arrival Time:8, service Time:0}0
+Queue:3 has person:  Person{id:21, arrival Time:7, service Time:0}0
+Time is:18
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:1}1
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:1}1
+Queue:3 has person:  Person{id:14, arrival Time:12, service Time:3}3
+Queue:0 has person:  Person{id:48, arrival Time:13, service Time:2}2
+Time is:19
+Queue:1 has person:  Person{id:34, arrival Time:14, service Time:0}0
+Queue:2 has person:  Person{id:19, arrival Time:11, service Time:0}0
+Queue:3 has person:  Person{id:14, arrival Time:12, service Time:2}2
+Queue:0 has person:  Person{id:48, arrival Time:13, service Time:1}1
+Time is:20
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:7}7
+Queue:4 has person:  Person{id:30, arrival Time:20, service Time:4}4
+Queue:2 has person:  Person{id:16, arrival Time:15, service Time:3}3
+Queue:3 has person:  Person{id:14, arrival Time:12, service Time:1}1
+Queue:0 has person:  Person{id:48, arrival Time:13, service Time:0}0
+Time is:21
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:6}6
+Queue:4 has person:  Person{id:30, arrival Time:20, service Time:3}3
+Queue:2 has person:  Person{id:16, arrival Time:15, service Time:2}2
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:5}5
+Queue:3 has person:  Person{id:14, arrival Time:12, service Time:0}0
+Time is:22
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:5}5
+Queue:4 has person:  Person{id:30, arrival Time:20, service Time:2}2
+Queue:2 has person:  Person{id:16, arrival Time:15, service Time:1}1
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:5}5
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:4}4
+Time is:23
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:4}4
+Queue:4 has person:  Person{id:30, arrival Time:20, service Time:1}1
+Queue:2 has person:  Person{id:16, arrival Time:15, service Time:0}0
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:4}4
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:3}3
+Time is:24
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:3}3
+Queue:4 has person:  Person{id:30, arrival Time:20, service Time:0}0
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:5}5
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:3}3
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:2}2
+Time is:25
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:2}2
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:4}4
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:2}2
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:1}1
+Time is:26
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:5}5
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:1}1
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:3}3
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:1}1
+Queue:0 has person:  Person{id:47, arrival Time:16, service Time:0}0
+Time is:27
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:4}4
+Queue:1 has person:  Person{id:15, arrival Time:17, service Time:0}0
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:2}2
+Queue:3 has person:  Person{id:22, arrival Time:15, service Time:0}0
+Queue:0 has person:  Person{id:35, arrival Time:20, service Time:4}4
+Time is:28
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:3}3
+Queue:1 has person:  Person{id:49, arrival Time:20, service Time:1}1
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:1}1
+Queue:3 has person:  Person{id:27, arrival Time:20, service Time:4}4
+Queue:0 has person:  Person{id:35, arrival Time:20, service Time:3}3
+Time is:29
+Queue:1 has person:  Person{id:49, arrival Time:20, service Time:0}0
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:2}2
+Queue:2 has person:  Person{id:50, arrival Time:19, service Time:0}0
+Queue:3 has person:  Person{id:27, arrival Time:20, service Time:3}3
+Queue:0 has person:  Person{id:35, arrival Time:20, service Time:2}2
+Time is:30
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:1}1
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:6}6
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:5}5
+Queue:3 has person:  Person{id:27, arrival Time:20, service Time:2}2
+Queue:0 has person:  Person{id:35, arrival Time:20, service Time:1}1
+Time is:31
+Queue:4 has person:  Person{id:40, arrival Time:26, service Time:0}0
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:5}5
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:4}4
+Queue:3 has person:  Person{id:27, arrival Time:20, service Time:1}1
+Queue:0 has person:  Person{id:35, arrival Time:20, service Time:0}0
+Time is:32
+Queue:4 has person:  Person{id:5, arrival Time:30, service Time:4}4
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:4}4
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:3}3
+Queue:3 has person:  Person{id:27, arrival Time:20, service Time:0}0
+Queue:0 has person:  Person{id:25, arrival Time:28, service Time:3}3
+Time is:33
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:3}3
+Queue:4 has person:  Person{id:5, arrival Time:30, service Time:3}3
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:2}2
+Queue:3 has person:  Person{id:36, arrival Time:26, service Time:1}1
+Queue:0 has person:  Person{id:25, arrival Time:28, service Time:2}2
+Time is:34
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:2}2
+Queue:4 has person:  Person{id:5, arrival Time:30, service Time:2}2
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:1}1
+Queue:3 has person:  Person{id:36, arrival Time:26, service Time:0}0
+Queue:0 has person:  Person{id:25, arrival Time:28, service Time:1}1
+Time is:35
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:1}1
+Queue:4 has person:  Person{id:5, arrival Time:30, service Time:1}1
+Queue:2 has person:  Person{id:8, arrival Time:21, service Time:0}0
+Queue:3 has person:  Person{id:23, arrival Time:29, service Time:1}1
+Queue:0 has person:  Person{id:25, arrival Time:28, service Time:0}0
+Time is:36
+Queue:1 has person:  Person{id:38, arrival Time:28, service Time:0}0
+Queue:4 has person:  Person{id:5, arrival Time:30, service Time:0}0
+Queue:2 has person:  Person{id:41, arrival Time:28, service Time:4}4
+Queue:3 has person:  Person{id:23, arrival Time:29, service Time:0}0
+Queue:0 has person:  Person{id:18, arrival Time:30, service Time:1}1
+Time is:37
+Queue:1 has person:  Person{id:31, arrival Time:30, service Time:4}4
+Queue:4 has person:  Person{id:33, arrival Time:32, service Time:1}1
+Queue:2 has person:  Person{id:41, arrival Time:28, service Time:3}3
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:7}7
+Queue:0 has person:  Person{id:18, arrival Time:30, service Time:0}0
+Time is:38
+Queue:1 has person:  Person{id:31, arrival Time:30, service Time:3}3
+Queue:4 has person:  Person{id:33, arrival Time:32, service Time:0}0
+Queue:2 has person:  Person{id:41, arrival Time:28, service Time:2}2
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:6}6
+Queue:0 has person:  Person{id:11, arrival Time:34, service Time:4}4
+Time is:39
+Queue:1 has person:  Person{id:31, arrival Time:30, service Time:2}2
+Queue:4 has person:  Person{id:46, arrival Time:35, service Time:1}1
+Queue:2 has person:  Person{id:41, arrival Time:28, service Time:1}1
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:5}5
+Queue:0 has person:  Person{id:11, arrival Time:34, service Time:3}3
+Time is:40
+Queue:1 has person:  Person{id:31, arrival Time:30, service Time:1}1
+Queue:4 has person:  Person{id:46, arrival Time:35, service Time:0}0
+Queue:2 has person:  Person{id:41, arrival Time:28, service Time:0}0
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:4}4
+Queue:0 has person:  Person{id:11, arrival Time:34, service Time:2}2
+Time is:41
+Queue:1 has person:  Person{id:31, arrival Time:30, service Time:0}0
+Queue:4 has person:  Person{id:6, arrival Time:40, service Time:4}4
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:7}7
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:3}3
+Queue:0 has person:  Person{id:11, arrival Time:34, service Time:1}1
+Time is:42
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:6}6
+Queue:4 has person:  Person{id:6, arrival Time:40, service Time:3}3
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:6}6
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:2}2
+Queue:0 has person:  Person{id:11, arrival Time:34, service Time:0}0
+Time is:43
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:5}5
+Queue:4 has person:  Person{id:6, arrival Time:40, service Time:2}2
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:5}5
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:1}1
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:6}6
+Time is:44
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:4}4
+Queue:4 has person:  Person{id:6, arrival Time:40, service Time:1}1
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:4}4
+Queue:3 has person:  Person{id:13, arrival Time:32, service Time:0}0
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:5}5
+Time is:45
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:3}3
+Queue:4 has person:  Person{id:6, arrival Time:40, service Time:0}0
+Stopped Thread 4 emptyList 
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:3}3
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:7}7
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:4}4
+Time is:46
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:2}2
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:2}2
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:6}6
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:3}3
+Time is:47
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:1}1
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:1}1
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:5}5
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:2}2
+Time is:48
+Queue:1 has person:  Person{id:29, arrival Time:34, service Time:0}0
+Queue:2 has person:  Person{id:44, arrival Time:30, service Time:0}0
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:4}4
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:1}1
+Time is:49
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:5}5
+Queue:2 has person:  Person{id:42, arrival Time:34, service Time:2}2
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:3}3
+Queue:0 has person:  Person{id:1, arrival Time:36, service Time:0}0
+Stopped Thread 0 emptyList 
+Time is:50
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:4}4
+Queue:2 has person:  Person{id:42, arrival Time:34, service Time:1}1
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:2}2
+Time is:51
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:3}3
+Queue:2 has person:  Person{id:42, arrival Time:34, service Time:0}0
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:1}1
+Time is:52
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:2}2
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:6}6
+Queue:3 has person:  Person{id:32, arrival Time:35, service Time:0}0
+Time is:53
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:1}1
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:5}5
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:5}5
+Time is:54
+Queue:1 has person:  Person{id:9, arrival Time:36, service Time:0}0
+Stopped Thread 1 emptyList 
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:4}4
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:4}4
+Time is:55
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:3}3
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:3}3
+Time is:56
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:2}2
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:2}2
+Time is:57
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:1}1
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:1}1
+Time is:58
+Queue:2 has person:  Person{id:45, arrival Time:38, service Time:0}0
+Stopped Thread 2 emptyList 
+Queue:3 has person:  Person{id:10, arrival Time:39, service Time:0}0
+Stopped Thread 3 emptyList 
+Time is:59
